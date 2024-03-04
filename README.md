@@ -6,5 +6,5 @@ LCL即我自己的博客
 ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
 ## 存在的问题
 1. 图片的上传与图床建立
-[ ] 2.排板格式（markdown语法）
-[ ] 3.访问与加载问题
+2. 排板格式（markdown语法）
+3. 访问与加载问题
