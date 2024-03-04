@@ -1,7 +1,7 @@
 # LCL即自己的学习记录
 写在最开始，本记录指自己在github或者各种课程书籍、B站或者其它资源中了解到的一些代码、工程等技术知识的摘录或者记录。
 #### 介绍
-> 1. 类的基本思想是数据抽象（data abstraction）和封装（encapsulation）。数据抽象是一种依赖于接口（interface）和实现（implementation）分离的编程及设计技术。类的接口包括用户所能执行的操作；类的实现包括类的数据成员、负责接口实现的函数体以及其他私有函数。
+1. 类的基本思想是数据抽象（data abstraction）和封装（encapsulation）。数据抽象是一种依赖于接口（interface）和实现（implementation）分离的编程及设计技术。类的接口包括用户所能执行的操作；类的实现包括类的数据成员、负责接口实现的函数体以及其他私有函数。
 > 2. Ｃ中的 malloc 和Ｃ＋＋中的 new 有什么区别
 > malloc 和 new 有以下不同： （1） new、delete 是操作符，可以重载，只能在 C++中使用。 （2） malloc、free 是函数，可以覆盖，C、C++中都可以使用。 （3） new 可以调用对象的构造函数，对应的 delete 调用相应的析构函数。 （4） malloc 仅仅分配内存，free 仅仅回收内存，并不执行构造和析构函数 （5） new、delete 返回的是某种数据类型指针，malloc、free 返回的是 void 指针。 注意：malloc 申请的内存空间要用 free 释放，而 new 申请的内存空间要用 delete 释放，不要混用。 因为两者实现的机理不同。
 > 3. 面向对象的三大特征
