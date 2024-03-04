@@ -7,4 +7,4 @@ LCL即我自己的博客
 1. 图片的上传与图床建立
 2. 排板格式（markdown语法）
 3. 访问与加载问题
-![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
+> ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
