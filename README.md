@@ -7,5 +7,6 @@ LCL即我自己的博客
 1. 图片的上传与图床建立
 2. 排板格式（markdown语法）
 3. 访问与加载问题
-4. 分类与串连（未有体系）
+4. 分类与串连(未有体系)
+5. 非git上传，伴有局限性......
 > ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
