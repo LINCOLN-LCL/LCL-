@@ -10,6 +10,6 @@ LCL即我自己的博客
 4. 分类与串连(未有体系)
 5. 非git上传，伴有局限性......
 ## 解决方案
-- 通过在建立一个仓库存储图片当图床
+- 通过在建立一个仓库存储图片当图床(
 > ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
 -                                         LCL 图标/图腾 
