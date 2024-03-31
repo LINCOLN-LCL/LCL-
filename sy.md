@@ -5,3 +5,4 @@
 - https://blog.csdn.net/weixin_44299027/article/details/122240322
 - https://www.sqlite.org/download.html
 - https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
+- https://dbland.m9d2.cn/ui/#/
