@@ -4,3 +4,4 @@
 - https://geek-docs.com/sqlite/sqlite-questions/383_sqlite_python_sqlite_operationalerror_near_s_syntax_error.html
 - https://blog.csdn.net/weixin_44299027/article/details/122240322
 - https://www.sqlite.org/download.html
+- https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
