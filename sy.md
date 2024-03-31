@@ -1,0 +1,6 @@
+- https://github.com/m9d2/dbland
+- https://www.runoob.com/sqlite/sqlite-tutorial.html
+- https://www.runoob.com/js/js-chrome.html
+- https://geek-docs.com/sqlite/sqlite-questions/383_sqlite_python_sqlite_operationalerror_near_s_syntax_error.html
+- https://blog.csdn.net/weixin_44299027/article/details/122240322
+- https://www.sqlite.org/download.html
