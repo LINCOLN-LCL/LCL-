@@ -11,6 +11,7 @@ LCL即我自己的博客
 5. 非git上传，伴有局限性......
 ## 解决方案
 1. 通过在建立一个仓库存储图片当图床(下面图片就是一个实验）
+![IMG_20230803_185848.png](https://cdn.nlark.com/yuque/0/2024/png/42714684/1723228591574-9f051e9a-4000-4583-a2f5-a0e419235ef2.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1080%2Climit_0)
 > ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
 -                                         LCL 图标/图腾 
 ![IMG_20230803_185848.png](https://cdn.nlark.com/yuque/0/2024/jpeg/42714684/1723228251635-b761e457-0b18-4b70-9ce3-a407fcb47eb7.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_640%2Climit_0%2Finterlace%2C1)
