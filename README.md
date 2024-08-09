@@ -13,4 +13,4 @@ LCL即我自己的博客
 1. 通过在建立一个仓库存储图片当图床(下面图片就是一个实验）
 > ![LCL 图示](https://github.com/LINCOLN-LCL/LCL-/blob/main/LCL.jpg )
 -                                         LCL 图标/图腾 
-![IMG_20230803_185848.png](https://github.com/LINCOLN-LCL/LCL-/assets/140370308/50744716-28bc-4837-9fa4-ed1b3ddfe586)
+![IMG_20230803_185848.png](https://cdn.nlark.com/yuque/0/2024/jpeg/42714684/1723228251635-b761e457-0b18-4b70-9ce3-a407fcb47eb7.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_640%2Climit_0%2Finterlace%2C1)
