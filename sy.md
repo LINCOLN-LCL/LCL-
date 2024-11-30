@@ -9,3 +9,4 @@
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="https://www.yuque.com/r/note/779bb707-e920-44fa-8968-d9fdfbabadec?#《LINCOLN-LCL 的小记》" type="video/mp4">
 </videos>
+<iframe src="https://www.yuque.com/r/note/779bb707-e920-44fa-8968-d9fdfbabadec?#%E3%80%8ALINCOLN-LCL%20%E7%9A%84%E5%B0%8F%E8%AE%B0%E3%80%8B》" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
