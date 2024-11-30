@@ -6,3 +6,6 @@
 - https://www.sqlite.org/download.html
 - https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
 - https://dbland.m9d2.cn/ui/#/
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://www.yuque.com/r/note/779bb707-e920-44fa-8968-d9fdfbabadec?#《LINCOLN-LCL 的小记》" type="video/mp4">
+</videos>
